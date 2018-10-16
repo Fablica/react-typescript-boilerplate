@@ -23,6 +23,17 @@
   "keywords": [],
   "author": "Kento75 < kento2github@gmail.com >",
   "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "normalize.css": "^8.0.0",
+    "history": "^4.6.3",
+    "react": "^16.4.1",
+    "react-css-modules": "^4.7.4",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.1.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@storybook/addon-actions": "^4.0.0-alpha.24",
@@ -33,10 +44,10 @@
     "@types/history": "^4.7.1",
     "@types/jest": "^23.1.4",
     "@types/puppeteer": "^1.5.0",
-    "@types/react": "^16.4.6",
+    "@types/react": "^16.4.18",
     "@types/react-dom": "^16.0.6",
-    "@types/react-redux": "^6.0.9",
     "@types/react-router-dom": "^4.3.1",
+    "@types/react-redux": "^6.0.9",
     "@types/react-test-renderer": "^16.0.1",
     "@types/redux": "^3.6.0",
     "@types/storybook__addon-actions": "^3.0.3",
@@ -74,16 +85,5 @@
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8",
     "webpack-serve": "^2.0.1"
-  },
-  "dependencies": {
-    "express": "^4.16.3",
-    "normalize.css": "^8.0.0",
-    "history": "^4.6.3",
-    "react": "^16.4.1",
-    "react-css-modules": "^4.7.4",
-    "react-dom": "^16.4.1",
-    "react-router-dom": "^4.1.2",
-    "react-redux": "^5.0.7",
-    "redux": "^4.0.0"
   }
 }
