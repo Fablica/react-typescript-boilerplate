@@ -1,6 +1,6 @@
 # react-typescript-boilerplate
 
-[![CircleCI](https://circleci.com/gh/Kento75/react-typescript-boilerplate.svg?style=svg)](https://circleci.com/gh/Kento75/react-typescript-boilerplate)
+[![CircleCI](https://circleci.com/gh/Fablica/react-typescript-boilerplate.svg?style=svg)](https://circleci.com/gh/Fablica/react-typescript-boilerplate)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b5e6ccc84421424db40a6cf209f2aa2c)](https://www.codacy.com/app/Kento75/react-typescript-boilerplate?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kento75/react-typescript-boilerplate&amp;utm_campaign=Badge_Grade)
 
 ## Setup
